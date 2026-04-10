@@ -8,3 +8,7 @@ target/
 build/.DS_Store
 .DS_Store
 .DS_Store
+.DS_Store
+*.class
+/out/
+/bin/
